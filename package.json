@@ -1,0 +1,26 @@
+{
+  "name": "zod-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --exec 'ts-node' index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodingGreen/zod-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodingGreen/zod-practice/issues"
+  },
+  "homepage": "https://github.com/CodingGreen/zod-practice#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20",
+    "ts-node": "^10.9.1"
+  },
+  "dependencies": {
+    "zod": "^3.20.2"
+  }
+}
